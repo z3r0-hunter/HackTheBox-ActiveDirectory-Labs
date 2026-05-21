@@ -1,4 +1,4 @@
-# Support HTB Writeup — RBCD Attack
+# Support HTB Writeup
 
 ## Enumeration
 
